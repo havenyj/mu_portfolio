@@ -92,6 +92,6 @@ Feel free to reach out through my profile or any linked contact methods!
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License**.
