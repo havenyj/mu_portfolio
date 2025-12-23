@@ -1,10 +1,10 @@
-# 🌟 My Portfolio
+# My Portfolio
 
 Your personal developer portfolio powered by **React** and **Vite** — fast, modern, and easy to extend.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -14,14 +14,14 @@ Your personal developer portfolio powered by **React** and **Vite** — fast, mo
 
 ---
 
-## 📖 About the Project
+## About the Project
 
 This is my personal developer portfolio, built with **React** (via **Vite**) for fast development and smooth performance.  
 It serves as a platform to showcase **projects**, **skills**, and **contact details** with a clean and modern design.
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 ```
 my-portfolio/
@@ -41,7 +41,7 @@ my-portfolio/
 
 ---
 
-## 🚀 Setup & Running Locally
+## Setup & Running Locally
 
 1. **Clone the repository:**
    ```bash
@@ -63,7 +63,7 @@ my-portfolio/
 
 ---
 
-## 🌍 Deployment
+## Deployment
 
 **Build for production:**
 ```bash
@@ -75,7 +75,7 @@ If using **GitHub Pages**, configure the Pages source to your deploy branch (e.g
 
 ---
 
-## 🎨 Customization Ideas
+## Customization Ideas
 
 - Add social media links (GitHub, LinkedIn, Twitter)
 - Include project descriptions with live-demo links
@@ -85,7 +85,7 @@ If using **GitHub Pages**, configure the Pages source to your deploy branch (e.g
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Rachelle Pantinople**  
 Feel free to reach out through my profile or any linked contact methods!
