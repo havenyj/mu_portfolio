@@ -87,7 +87,7 @@ If using **GitHub Pages**, configure the Pages source to your deploy branch (e.g
 
 ## Author
 
-**Rachelle Pantinople**  
+**Ei Thinzar Myo**  
 Feel free to reach out through my profile or any linked contact methods!
 
 ---
